@@ -24,10 +24,10 @@
 ### 3:  Summary: ###
 
 I was a web developer and UI/UX designer.
-Also I have been drawing design for mobile applications for three years. After I begun to learn iOS developing in Swiftbook and by book - "V.Usov - Swift. 6-th Edition." I read more about algorithms and data structures every day.
+Also I have been drawing design for mobile applications for three years. After I begun to learn iOS developing in Swiftbook and by book - "V. Usov - Swift. 6-th edition." I read more about algorithms and data structures every day.
 
 **My hobbies:**
-psychology, mobile applications, read books, drawing, hand-made, hard-rock/metall/jazz, take care of my pets.
+psychology, mobile applications, read books, drawing, hand-made, hard-rock/metal/jazz, take care of my pets.
 
 **My dream:**
 I would like to create mobile apps for b2b(CRM services) and users (to-do lists, health's apps for sport and fitness, apps for care pets, apps which can do easier developer's life).
@@ -39,12 +39,12 @@ I would like to create mobile apps for b2b(CRM services) and users (to-do lists,
 ### 4:  Skills: ###
 
   -  Web: HTML5 + CSS3(5 years), JavaScript(2 years), Python(2 years).
-  -  Mobile developing: Swift(6 monthes in learning).
+  -  Mobile developing: Swift(6 months in learning).
   -  Frameworks: React.js(1 year), Django(2 years).
-  -  UI/UX design(3 years): Wireframing, Create prototyping, Create userflow, UX Research, A/B Tests, UI Animations, create guidelines.
+  -  UI/UX design(3 years): Wire-framing, Create prototyping, Create user-flow, UX Research, A/B Tests, UI Animations, create guidelines.
   -  Graphic design: to paint business cards, professional business presentations.
-  -  Busines Experting: SCRUM and Kanban(3 years), Agile(3 years).
-  -  CRM developing and bug-treckers: PlanFix, Jira, Trello, TargetProcess, ZOHO, WLAUNCH, Monday, Zendesk.
+  -  Business Experting: SCRUM and Kanban(3 years), Agile(3 years).
+  -  CRM developing and bug-trackers: PlanFix, Jira, Trello, TargetProcess, ZOHO, WLAUNCH, Monday, Zendesk.
   -  Software for working: Git, Bitbucket, Figma, Sketch, Zeplin, InVision, AvoCode, Terminal, MacOS/Windows/Ubuntu.
 
 
