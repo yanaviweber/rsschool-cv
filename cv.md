@@ -15,6 +15,7 @@
   -  email: creative.mashine@gmail.com
   -  telegram: @limartco
   -  discord: ViJane (@ViJane-dev)
+  -  instagram: [instagram.com/barva.tech](https://instagram.com/barva.tech)
 
 
 ***
